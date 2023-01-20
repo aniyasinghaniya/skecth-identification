@@ -1,0 +1,28 @@
+#b1{
+    font-size:medium;
+    float:right;
+    padding:10px;
+    border-radius:12px;
+    background-color:burlywood;
+    margin-right:10px;
+}
+body{
+   background-color:darksalmon; 
+   font-family: 'Righteous', cursive; 
+   
+}
+#b2{
+     
+     
+    padding:10px;
+    border-radius:12px;
+    background-color:cadetblue;
+    margin-right:10px;
+}
+canvas{
+    border-radius:12px;
+    
+}
+#mymodal{
+    text-align: center;
+}
